@@ -1,0 +1,1 @@
+Simple port scanner developed with Python. A cybersecurity tool for information gathering that makes use of the Socket library.
