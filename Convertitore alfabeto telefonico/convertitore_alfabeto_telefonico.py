@@ -14,7 +14,7 @@ while True:
     if nospacename.isalpha() == False:
         print("Digita solo lettere!")
     else:
-        result = [row.nomi for l in name for (index,row) in df.iterrows if l == row.letters]
+        result = [row.nomi for l in name for (index, row) in df.iterrows() if l == row.lettere]
         print(result)
         break
 
