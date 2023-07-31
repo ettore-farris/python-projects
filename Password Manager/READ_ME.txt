@@ -1,0 +1,2 @@
+This is a simple password manager that allows you to save website, username/email and password combinations in a Json file. The program also have a strong random password generator (with "copy to clipboard" feature) and a search system.
+It's a simple program developed with Python using the libraries Tkinter, json and pyperclip.
