@@ -3,9 +3,9 @@ import pandas
 
 screen = turtle.Screen()
 screen.title("US States")
-screen.bgpic(r"C:\Users\thena\Desktop\Programmazione\Python\Quiz US States\blank_states_img.gif")
+screen.bgpic("blank_states_img.gif")
 
-df = pandas.read_csv(r"C:\Users\thena\Desktop\Programmazione\Python\Quiz US States\50_states.csv")
+df = pandas.read_csv("50_states.csv")
 all_states = df.state.tolist()
 guessed_states = []
 
