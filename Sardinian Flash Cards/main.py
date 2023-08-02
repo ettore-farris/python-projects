@@ -7,7 +7,7 @@ import os
 BACKGROUND_COLOR = "#B1DDC6"
 LANG_FONT = ("Ariel", 40, "italic")
 WORD_FONT = ("Ariel", 60, "bold")
-DELAY = 3000
+DELAY = 5000
 
 #----------------------------------DATA PROCESSING----------------------------------#
 
