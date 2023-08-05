@@ -59,7 +59,7 @@ def search():
     try:
         with open("db.json", "r") as db:
             data = json.load(db)
-    except FileNotFoundError:##############################
+    except FileNotFoundError:
         messagebox.showwarning(title="Data file not found", message="Data file not found. Try inserting a new record.")
     else:
         if website in data:
