@@ -3,8 +3,8 @@ from datetime import *
 from pandas import *
 from random import *
 
-MY_EMAIL = "info.beatbnb@gmail.com"
-APP_PASSWORD = "doogjwfiisdutyyp"
+MY_EMAIL = "YOUR EMAIL HERE"
+APP_PASSWORD = "YOUR PASSWORD HERE"
 TODAY = (datetime.now().day, datetime.now().month)
 birthdays = read_csv("birthdays.csv").to_dict(orient="records")
 
