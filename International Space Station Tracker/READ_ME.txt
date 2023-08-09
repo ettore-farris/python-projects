@@ -1,0 +1,2 @@
+This program sends an automatic email whenever the International Space Station visible to you, namely when it's right above you and it's dark enough.
+This Python program makes use of external APIs and libraries.
