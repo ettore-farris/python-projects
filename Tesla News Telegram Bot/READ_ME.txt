@@ -1,0 +1,2 @@
+This program is a Telegram Bot that sends you a message with the latest news about Tesla when the closing price of its stock increases/decreases by 5/-5% from one day to another.
+It's a daily update to keep up to date about trading.
